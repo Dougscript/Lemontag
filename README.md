@@ -35,4 +35,4 @@ Your platform is live. Start issuing tags.
 
 
 The First Tag
-LT-0001 belongs to a 1965 Chevrolet Impala SS — 396 Big Block, Super Sport, royal blue. Bought from a fellow soldier while stationed in Korea. Shipped back to the States. Rebuilt from the block up. The car that started all of this.
+LT-0001 belongs to a 1965 Chevrolet Impala SS — 427 Big Block, Super Sport, royal blue. Bought from a fellow soldier while stationed in Korea. Shipped back to the States. Rebuilt from the block up. The car that started all of this.
